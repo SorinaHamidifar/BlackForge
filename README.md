@@ -1,1 +1,1 @@
- powerful, production-ready solutions.
+ production-ready solutions.
