@@ -1,1 +1,1 @@
-where ideas are forged into powerful, production-ready solutions.
+ powerful, production-ready solutions.
