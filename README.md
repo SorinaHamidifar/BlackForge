@@ -1,5 +1,5 @@
 # ==========================================
-# Project: EliteForge  pro
+# Project: EliteForge
 # Description:
 # An elite development hub where ideas are forged
 # into powerful, production-ready solutions.
