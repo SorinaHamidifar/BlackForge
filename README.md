@@ -1,5 +1,5 @@
 # ==========================================
-# Project: EliteForge  production-ready sol
+# Project: EliteForge  production-ready
 # Description:
 # An elite development hub where ideas are forged
 # into powerful, production-ready solutions.
