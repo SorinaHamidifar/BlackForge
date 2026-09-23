@@ -2,7 +2,7 @@
 # Project: EliteForge
 # Description:
 # An elite development hub where ideas are forged
-# into powerful, product
+# into powerful, production
 # ==========================================
 
 
