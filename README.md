@@ -1,7 +1,7 @@
 # ==========================================
 # Project: EliteForge
 # Description:
-# An elite development hub 
+# An elite development hub where 
 # into powerful, production-ready solutions.
 # ==========================================
 
